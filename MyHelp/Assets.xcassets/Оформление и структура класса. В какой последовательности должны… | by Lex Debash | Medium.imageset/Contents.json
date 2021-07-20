@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Оформление и структура класса. В какой последовательности должны… | by Lex Debash | Medium.pdf",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
