@@ -15,6 +15,7 @@
 		A07F3C8D26A6E86900FB904B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A07F3C8B26A6E86900FB904B /* LaunchScreen.storyboard */; };
 		A07F3C9526A6E8B000FB904B /* EugeniaRecommendations.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07F3C9426A6E8B000FB904B /* EugeniaRecommendations.swift */; };
 		A07F3C9726A6E94A00FB904B /* TheCodeStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07F3C9626A6E94A00FB904B /* TheCodeStructure.swift */; };
+		A07F3C9A26A6F52500FB904B /* UserShortKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07F3C9926A6F52500FB904B /* UserShortKeys.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		A07F3C8E26A6E86900FB904B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A07F3C9426A6E8B000FB904B /* EugeniaRecommendations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EugeniaRecommendations.swift; sourceTree = "<group>"; };
 		A07F3C9626A6E94A00FB904B /* TheCodeStructure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheCodeStructure.swift; sourceTree = "<group>"; };
+		A07F3C9926A6F52500FB904B /* UserShortKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserShortKeys.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				A07F3C8E26A6E86900FB904B /* Info.plist */,
 				A07F3C9426A6E8B000FB904B /* EugeniaRecommendations.swift */,
 				A07F3C9626A6E94A00FB904B /* TheCodeStructure.swift */,
+				A07F3C9926A6F52500FB904B /* UserShortKeys.swift */,
 			);
 			path = MyHelp;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A07F3C8526A6E86800FB904B /* ViewController.swift in Sources */,
+				A07F3C9A26A6F52500FB904B /* UserShortKeys.swift in Sources */,
 				A07F3C9526A6E8B000FB904B /* EugeniaRecommendations.swift in Sources */,
 				A07F3C8126A6E86800FB904B /* AppDelegate.swift in Sources */,
 				A07F3C8326A6E86800FB904B /* SceneDelegate.swift in Sources */,
