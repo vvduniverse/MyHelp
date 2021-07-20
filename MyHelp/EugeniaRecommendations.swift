@@ -1,9 +1,4 @@
-//
-//  EugeniaRecommendations.swift
-//  MyHelp
-//
-//  Created by Vahtee Boo on 20.07.2021.
-//
+
 
 import Foundation
 

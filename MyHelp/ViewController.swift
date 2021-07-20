@@ -1,9 +1,4 @@
-//
-//  ViewController.swift
-//  MyHelp
-//
-//  Created by Vahtee Boo on 20.07.2021.
-//
+
 
 import UIKit
 

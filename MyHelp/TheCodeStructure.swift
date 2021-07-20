@@ -1,11 +1,4 @@
-//
-//  TheCodeStructure.swift
-//  MyHelp
-//
-//  Created by Vahtee Boo on 20.07.2021.
-//
 
-import Foundation
 /*
  Оформление и структура класса
  В какой последовательности должны объявляться свойства и методы класса?
